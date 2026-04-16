@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+build/
+venv/
+.history.txt
+*.csv
+*.json
+debug_ocr.py
