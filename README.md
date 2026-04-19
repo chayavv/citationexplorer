@@ -2,7 +2,7 @@
 
 A desktop tool that finds every paper citing a given work and ranks them by academic impact.
 
-![Python](https://img.shields.io/badge/python-3.11+-blue) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey) ![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.11+-blue) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey) ![License](https://img.shields.io/badge/license-AGPL--v3-blue)
 
 ---
 
